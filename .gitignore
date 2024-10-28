@@ -1,0 +1,11 @@
+*.zip
+.venv
+.ipynb_checkpoints
+Data/marginal_carbon_intensity/
+Data/WattTime/
+Data/LWA_data/
+Data/post_processing/
+Workloads/Azure/AzureFunctionsDataset2019/
+Workloads/Azure/vmtable.csv
+Workloads/Azure/AzureFunctionsInvocationTraceForTwoWeeksJan2021.txt
+wattTimeAPI.py

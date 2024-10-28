@@ -1,0 +1,58 @@
+WattTime Zone,ElectricityMaps Zone,City/Region,Country,AWS,Azure,GCP,Sum,Continent
+SGP,SG,Singapore,Singapore,1,1,1,3,Asia
+IE,IE,Ireland,Ireland,1,1,1,3,Europe
+,ZA,South Africa,South Africa,1,1,1,3,Africa
+NEM_NSW,AU-NSW,NSW,Australia,1,1,1,3,Oceania
+,HK,Hong Kong,China,1,1,1,3,Asia
+JP_TK,JP-TK,Tokyo,Japan,1,1,1,3,Asia
+KOR,KR,Seoul,South Korea,1,1,1,3,Asia
+FR,FR,Paris,France,1,1,1,3,Europe
+DE,DE,Frankfurt,Germany,1,1,1,3,Europe
+IT,IT-NO,Milan,Italy,1,1,1,3,Europe
+UK,GB,London,UK,1,1,1,3,Europe
+BRA,BR-CS,Sao Paulo,Brazil,1,1,1,3,South America
+PJM_DC,US-MIDA-PJM,Virginia,US,1,1,1,3,North America
+,CH,Zurich,Switzerland,1,1,1,3,Europe
+,IL,Israel,Israel,1,1,1,3,Asia
+,AE,Dubai,UAE,1,1,1,3,Asia
+NL,NL,Netherlands,Netherlands,,1,1,2,Europe
+MISO_MASON_CITY,US-MIDW-MISO,Iowa,US,,1,1,2,North America
+ERCOT_NORTHCENTRAL,US-TEX-ERCO,Texas,US,,1,1,2,North America
+JP_KN,JP-KN,Osaka,Japan,1,,1,2,Asia
+IND,IN-WE,Mumbai,India,1,,1,2,Asia
+CAISO_NORTH,US-CAL-CISO,California,US,1,,1,2,North America
+BPA,US-NW-BPAT,Oregon,US,1,,1,2,North America
+PJM_EASTERN_OH,US-MIDA-PJM,Ohio,US,1,,1,2,North America
+IESO_SOUTH,CA-ON,Toronto,Canada,,1,1,2,North America
+PL,PL,Warsaw,Poland,,1,1,2,Europe
+SE,SE,Sweden,Sweden,1,1,,2,Europe
+,QA,Qatar,Qatar,,1,1,2,Asia
+NEM_VIC,AU-VIC,Victoria,Australia,1,,1,2,Oceania
+ES,ES,Spain,Spain,1,,1,2,Europe
+,ID,Jakarta,Indonesia,1,,1,2,Oceania
+,,Beijing,China,1,,,1,Asia
+IND,IN-WE,Maharashtra,India,,1,,1,Asia
+NO,NO,Norway,Norway,,1,,1,Europe
+BPA,US-NW-BPAT,Washington,US,,1,,1,North America
+AESO,CA-AB,Alberta,Canada,1,,,1,North America
+,,Ningxia,China,1,,,1,Asia
+,,Bahrain,Bahrain,1,,,1,Asia
+,TW,Taiwan,Taiwan,,,1,1,Asia
+FI,FI,Finland,Finland,,,1,1,Europe
+BE,BE,Belgium,Belgium,,,1,1,Europe
+HQ,CA-QC,Quebec,Canada,,,1,1,North America
+SC,US-CAR-SC,South Carolina,US,,,1,1,North America
+NEVP,US-NW-NEVP,Nevada,US,,,1,1,North America
+DK,DK,Denmark,Denmark,,,1,1,Europe
+CHL,CL-SEN,Santiago,Chile,,,1,1,South America
+SPP_WESTNE,SPP,Nebraska,US,,,1,1,North America
+TVA,TVA,Tennesee,US,,,1,1,North America
+SPP_OKCTY,SPP,Oklahoma,US,,,1,1,North America
+CPLE,US-CAR-DUK,North Carolina,US,,,1,1,North America
+SOCO,US-SE-SOCO,Alabama,US,,,1,1,North America
+AZPS,US-SW-AZPS,Arizona,US,,1,,1,North America
+IND,IN-SO,Hyderabad,India,1,,,1,Asia
+AESO,CA-AB,Calgary,Canada,1,,,1,North America
+IND,IN-NO,Delhi,India,,,1,1,Asia
+PACE,US-NW-PACE,Utah,US,,,1,1,North America
+SOCO,US-SE-SOCO,Georgia,US,,,1,1,North America

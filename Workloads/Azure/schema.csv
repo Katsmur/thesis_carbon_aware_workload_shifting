@@ -1,0 +1,26 @@
+filepattern,field_number,content,format
+vm_virtual_core_bucket_definition.csv,1,bucket,STRING
+vm_virtual_core_bucket_definition.csv,2,definition,STRING
+vm_memory_bucket_definition.csv,1,bucket,STRING
+vm_memory_bucket_definition.csv,2,definition,STRING
+subscriptions/subscriptions.csv.gz,1,subscription id,STRING_HASH
+subscriptions/subscriptions.csv.gz,2,timestamp first vm created,INTEGER
+subscriptions/subscriptions.csv.gz,3,count vms created,INTEGER
+deployment/deployment.csv.gz,1,deployment id,STRING_HASH
+deployment/deployment.csv.gz,2,deployment size,INTEGER
+vmtable/vmtable.csv.gz,1,vm id,STRING_HASH
+vmtable/vmtable.csv.gz,2,subscription id,STRING_HASH
+vmtable/vmtable.csv.gz,3,deployment id,STRING_HASH
+vmtable/vmtable.csv.gz,4,timestamp vm created,INTEGER
+vmtable/vmtable.csv.gz,5,timestamp vm deleted,INTEGER
+vmtable/vmtable.csv.gz,6,max cpu,DOUBLE
+vmtable/vmtable.csv.gz,7,avg cpu,DOUBLE
+vmtable/vmtable.csv.gz,8,p95 max cpu,DOUBLE
+vmtable/vmtable.csv.gz,9,vm category,STRING
+vmtable/vmtable.csv.gz,10,vm virtual core count bucket,STRING
+vmtable/vmtable.csv.gz,11,vm memory (gb) bucket,STTRING
+vm_cpu_readings/vm_cpu_readings-file-*-of-195.csv.gz,1,timestamp,INTEGER
+vm_cpu_readings/vm_cpu_readings-file-*-of-195.csv.gz,2,vm id,STRING_HASH
+vm_cpu_readings/vm_cpu_readings-file-*-of-195.csv.gz,3,min cpu,DOUBLE
+vm_cpu_readings/vm_cpu_readings-file-*-of-195.csv.gz,4,max cpu,DOUBLE
+vm_cpu_readings/vm_cpu_readings-file-*-of-195.csv.gz,5,avg cpu,DOUBLE
